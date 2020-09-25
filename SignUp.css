@@ -6,9 +6,7 @@ html {
     background-size: cover;
 }
 
-h1 {
-    text-align: center;
-}
+
 .content {
     max-width: 500px;
     margin: auto;
@@ -16,7 +14,11 @@ h1 {
     padding: 10px;
 }
 
-form {
+.content h1 {
+    text-align: center;
+}
+
+.content form {
     text-align: center;
 }
 
