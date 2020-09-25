@@ -11,16 +11,13 @@ html {
     max-width: 500px;
     margin: auto;
     background-color: white;
+    background-position: center;
     padding: 10px;
 }
 
 .content h1 {
     text-align: center;
     font-family: "Baskerville Old Face";
-}
-
-.content input[Profession] {
-    display: block;
-    margin: 0 auto;
+    text-decoration: underline;
 }
 
