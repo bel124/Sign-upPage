@@ -21,3 +21,9 @@ html {
     text-decoration: underline;
 }
 
+#Profession {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
