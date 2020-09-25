@@ -7,8 +7,10 @@ html {
 }
 
 .content {
+    align-content: center;
     max-width: 500px;
     margin: auto;
     background: white;
     padding: 10px;
+    opacity: 0.5;
 }
