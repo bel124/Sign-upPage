@@ -6,6 +6,9 @@ html {
     background-size: cover;
 }
 
+h1 {
+    align-content: center;
+}
 .content {
     align-content: center;
     max-width: 500px;
