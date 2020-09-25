@@ -1,5 +1,7 @@
-body{
-    background-image: url(images/techconnect2.jpg);
-    width: 60px;
-    height: 40px;
+html {
+    background: url(images/techconnect2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
