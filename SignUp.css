@@ -14,7 +14,11 @@ html {
     padding: 10px;
 }
 
-.content h1, form, p {
+.content h1 {
+    text-align: center;
+}
+
+.content #Profession {
     text-align: center;
 }
 
