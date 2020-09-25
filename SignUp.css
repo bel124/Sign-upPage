@@ -18,7 +18,8 @@ html {
     text-align: center;
 }
 
-.content #Profession {
-    text-align: center;
+.content input[Profession] {
+    display: block;
+    margin: 0 auto;
 }
 
