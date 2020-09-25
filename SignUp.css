@@ -19,3 +19,8 @@ html {
     font-family: "Baskerville Old Face";
 }
 
+.content input[Profession] {
+    display: block;
+    margin: 0 auto;
+}
+
