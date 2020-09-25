@@ -9,8 +9,7 @@ html {
 h1 {
     text-align: center;
 }
-
-.content {
+/*.content {
     max-width: 500px;
     margin: auto;
     background-color: white;
